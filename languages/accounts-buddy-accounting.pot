@@ -1,0 +1,766 @@
+# Copyright (C) 2020 mailchimp-for-wp
+# This file is distributed under the same license as the mailchimp-for-wp package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Webful Accounting - AccountsBuddy\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Webful Creations ateeq@webfulcreations.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: accounts-buddy-accounting.php:56
+msgid "Administrators can view all types of company!"
+msgstr ""
+
+#: accounts-buddy-accounting.php:60
+msgid "Please Select Your Company"
+msgstr ""
+
+#: accounts-buddy-accounting.php:61
+msgid "Company Must Published"
+msgstr ""
+
+#: lib/admin_menu.php:13
+msgid "Accounts Buddy"
+msgstr ""
+
+#: lib/admin_menu.php:17 lib/includes/post-types/company.php:20
+msgid "Manage Companies"
+msgstr ""
+
+#: lib/admin_menu.php:19
+msgid "Manage Accounts"
+msgstr ""
+
+#: lib/admin_menu.php:21 lib/includes/abas_pages/abas_jvs.php:14
+msgid "Journal Voucher"
+msgstr ""
+
+#: lib/admin_menu.php:23
+msgid "Report"
+msgstr ""
+
+#: lib/admin_menu.php:25
+msgid "Print Screen"
+msgstr ""
+
+#: lib/includes/abas_functions.php:160
+msgid "Sorry nothing to display!"
+msgstr ""
+
+#: lib/includes/abas_functions.php:237
+msgid "Company or user is missing"
+msgstr ""
+
+#: lib/includes/abas_functions.php:255
+msgid "Unknwon form type"
+msgstr ""
+
+#: lib/includes/abas_functions.php:259
+msgid "Missing voucher date."
+msgstr ""
+
+#: lib/includes/abas_functions.php:296
+msgid "Voucher have been added!"
+msgstr ""
+
+#: lib/includes/abas_functions.php:299
+msgid "Invalid data"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:6
+#: lib/includes/abas_pages/abas_report_print.php:9
+#: lib/includes/abas_reports/abas_report.php:7 lib/includes/main_page.php:6
+#: lib/includes/post-types/accounts.php:149
+#: lib/includes/post-types/company.php:60
+#: lib/includes/post-types/company.php:171 lib/includes/settings.php:9
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:15
+#: lib/includes/abas_pages/abas_jvs.php:61
+#: lib/includes/abas_pages/abas_jvs.php:133
+#: lib/includes/abas_reports/abas_report.php:49
+msgid "Add Voucher"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:21
+#: lib/includes/abas_pages/abas_jvs.php:35
+#: lib/includes/abas_reports/abas_report.php:211
+#: lib/includes/abas_reports/abas_report.php:227
+#: lib/includes/abas_reports/abas_report_functions.php:313
+#: lib/includes/abas_reports/abas_report_functions.php:430
+msgid "ID"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:22
+#: lib/includes/abas_pages/abas_jvs.php:36
+#: lib/includes/abas_reports/abas_report.php:212
+#: lib/includes/abas_reports/abas_report.php:228
+#: lib/includes/abas_reports/abas_report_functions.php:93
+#: lib/includes/abas_reports/abas_report_functions.php:314
+#: lib/includes/abas_reports/abas_report_functions.php:560
+msgid "Date"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:23
+#: lib/includes/abas_pages/abas_jvs.php:37
+#: lib/includes/abas_pages/abas_jvs.php:74
+#: lib/includes/abas_reports/abas_report.php:213
+#: lib/includes/abas_reports/abas_report.php:229
+#: lib/includes/abas_reports/abas_report_functions.php:95
+msgid "Manual ID"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:24
+#: lib/includes/abas_pages/abas_jvs.php:38
+#: lib/includes/abas_reports/abas_report.php:214
+#: lib/includes/abas_reports/abas_report.php:230
+#: lib/includes/abas_reports/abas_report_functions.php:107
+#: lib/includes/abas_reports/abas_report_functions.php:432
+msgid "Title"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:25
+#: lib/includes/abas_pages/abas_jvs.php:39
+#: lib/includes/abas_reports/abas_report.php:215
+#: lib/includes/abas_reports/abas_report.php:231
+#: lib/includes/abas_reports/abas_report_functions.php:109
+#: lib/includes/abas_reports/abas_report_functions.php:317
+#: lib/includes/post-types/accounts.php:128
+msgid "Description"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:26
+#: lib/includes/abas_pages/abas_jvs.php:40
+#: lib/includes/abas_reports/abas_report.php:216
+#: lib/includes/abas_reports/abas_report.php:232
+#: lib/includes/abas_reports/abas_report_functions.php:100
+msgid "Posted By"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:27
+#: lib/includes/abas_pages/abas_jvs.php:41
+#: lib/includes/abas_reports/abas_report.php:217
+#: lib/includes/abas_reports/abas_report.php:233
+msgid "Amount"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:71
+msgid "Date * "
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:75
+msgid "Manual ID e.g 1234343"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:78
+msgid "JV Title *"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:79
+msgid "Voucher Title"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:82
+msgid "Some words about voucher..."
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:86
+#: lib/includes/abas_pages/abas_report_print.php:31
+msgid "Transactions"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:90
+#: lib/includes/abas_reports/abas_report_functions.php:144
+msgid "Account"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:91
+#: lib/includes/abas_reports/abas_report_functions.php:145
+msgid "Memo"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:92
+msgid "DR."
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:93
+#: lib/includes/abas_reports/abas_report_functions.php:147
+msgid "CR."
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:102
+msgid "Add Accounts First"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:107
+msgid "Transaction Memo"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:108
+#: lib/includes/abas_pages/abas_jvs.php:109
+msgid "0.00"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:110
+msgid "x"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:112
+msgid "New Row"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:116
+msgid "At least 1 debit amount is required"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:117
+msgid "At least 1 credit amount is required"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:118
+msgid "Debit and Credit is not equal"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:119
+msgid "Please enter number."
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:120
+msgid "Debit and credit cannot be part of 1 transaction."
+msgstr ""
+
+#: lib/includes/abas_pages/abas_jvs.php:121
+msgid "Please delete empty row."
+msgstr ""
+
+#: lib/includes/abas_pages/abas_report_print.php:17
+msgid "Reports Accounts Buddy"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_report_print.php:26
+msgid "Today:"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_report_print.php:26
+msgid "Statement Period:"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_report_print.php:33
+#: lib/includes/abas_reports/abas_report.php:25
+msgid "Journal Vouchers"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_report_print.php:35
+msgid "Accounts Summary"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_report_print.php:38
+msgid "Accounts Transactions Summary"
+msgstr ""
+
+#: lib/includes/abas_pages/abas_report_print.php:49
+msgid "This is computer generated statement does not need signature."
+msgstr ""
+
+#: lib/includes/abas_pages/abas_report_print.php:51
+msgid "Print"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:31
+msgid "Journal Summary By Groups"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:37
+#: lib/includes/abas_reports/abas_report.php:164
+msgid "Journal Summary by Account"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:43
+msgid "Single Voucher"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:57 lib/includes/main_page.php:34
+msgid "Contact Us"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:63 lib/includes/main_page.php:39
+msgid "Chat With Us"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:78
+msgid "Select options to generate report"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:86
+#: lib/includes/abas_reports/abas_report.php:125
+#: lib/includes/abas_reports/abas_report.php:169
+msgid "From Date"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:92
+#: lib/includes/abas_reports/abas_report.php:131
+#: lib/includes/abas_reports/abas_report.php:175
+msgid "To Date"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:101
+#: lib/includes/abas_reports/abas_report.php:147
+#: lib/includes/abas_reports/abas_report.php:190
+msgid "Generate Report"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:119
+msgid "Summary by Account Groups"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:137
+msgid "Select Group"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:138
+msgid "Leave default to fetch all groups."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:181
+msgid "Select Account"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report.php:205
+msgid "Single  Voucher"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:102
+msgid "Unique ID"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:146
+msgid "Dr."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:315
+msgid "Manual ID."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:316
+msgid "Title."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:318
+msgid "Posted By."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:319
+msgid "Amount."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:386
+msgid "Total Amount"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:431
+msgid "Account #"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:433
+msgid "Type."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:434
+msgid "Opening."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:435
+msgid "Debit\t"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:436
+msgid "Credit."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:437
+msgid "Closing."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:496
+msgid "Total"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:547
+msgid "Account ID:"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:548
+msgid "Account Number:"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:549
+msgid "Account Title:"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:550
+msgid "Account Type:"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:558
+msgid "Tr ID"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:559
+msgid "JV ID"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:561
+msgid "Memo."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:562
+msgid "Debit."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:563
+msgid "Credit\t"
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:564
+msgid "Balance."
+msgstr ""
+
+#: lib/includes/abas_reports/abas_report_functions.php:584
+msgid "Opening balance"
+msgstr ""
+
+#: lib/includes/classes/abas_class-dashboard.php:20
+#: lib/includes/post-types/company.php:9 lib/includes/post-types/company.php:10
+msgid "Companies"
+msgstr ""
+
+#: lib/includes/classes/abas_class-dashboard.php:26
+#: lib/includes/post-types/accounts.php:8
+#: lib/includes/post-types/accounts.php:9
+#: lib/includes/post-types/accounts.php:10
+#: lib/includes/post-types/accounts.php:20
+msgid "Accounts"
+msgstr ""
+
+#: lib/includes/classes/abas_class-dashboard.php:32
+msgid "Voucher"
+msgstr ""
+
+#: lib/includes/classes/abas_class-dashboard.php:38
+msgid "Reports"
+msgstr ""
+
+#: lib/includes/classes/abas_class-dashboard.php:44
+#: lib/includes/post-types/account_groups.php:7
+#: lib/includes/post-types/account_groups.php:17
+msgid "Account Groups"
+msgstr ""
+
+#: lib/includes/main_page.php:23
+msgid "Dashboard"
+msgstr ""
+
+#: lib/includes/main_page.php:28
+msgid "General Settings"
+msgstr ""
+
+#: lib/includes/post-types/account_groups.php:8
+msgid "Subject"
+msgstr ""
+
+#: lib/includes/post-types/account_groups.php:9
+msgid "Search Account Groups"
+msgstr ""
+
+#: lib/includes/post-types/account_groups.php:10
+msgid "All Account Groups"
+msgstr ""
+
+#: lib/includes/post-types/account_groups.php:11
+#: lib/includes/post-types/account_groups.php:12
+msgid "Parent Account Groups"
+msgstr ""
+
+#: lib/includes/post-types/account_groups.php:13
+msgid "Edit Account Groups"
+msgstr ""
+
+#: lib/includes/post-types/account_groups.php:14
+msgid "Update Account Groups"
+msgstr ""
+
+#: lib/includes/post-types/account_groups.php:15
+msgid "Add New Account Groups"
+msgstr ""
+
+#: lib/includes/post-types/account_groups.php:16
+msgid "New Account Groups Name"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:7
+msgid "Add New Account"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:11
+msgid "Edit Account"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:12
+msgid "New Account"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:13
+msgid "View Account"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:14
+msgid "Search Account"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:15
+msgid "No Account found"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:16
+msgid "No Account in trash"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:21
+msgid "Accounts Section"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:49
+msgid "Accounts Details"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:83
+msgid "Account Number *"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:89
+msgid "Account Title *"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:104
+msgid "Account Type*"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:120
+#: lib/includes/post-types/accounts.php:196
+msgid "Company Id"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:192
+msgid "Company Name"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:193
+msgid "Account Number"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:194
+msgid "Account Title"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:195
+msgid "Account Type"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:197
+msgid "Account Description"
+msgstr ""
+
+#: lib/includes/post-types/accounts.php:198
+msgid "Groups"
+msgstr ""
+
+#: lib/includes/post-types/company.php:7
+msgid "Add company"
+msgstr ""
+
+#: lib/includes/post-types/company.php:8
+msgid "Company"
+msgstr ""
+
+#: lib/includes/post-types/company.php:11
+msgid "Edit Company"
+msgstr ""
+
+#: lib/includes/post-types/company.php:12
+msgid "New Company"
+msgstr ""
+
+#: lib/includes/post-types/company.php:13
+msgid "View Company"
+msgstr ""
+
+#: lib/includes/post-types/company.php:14
+msgid "Search Company"
+msgstr ""
+
+#: lib/includes/post-types/company.php:15
+msgid "No compnay Related to your search"
+msgstr ""
+
+#: lib/includes/post-types/company.php:16
+msgid "No company in trash"
+msgstr ""
+
+#: lib/includes/post-types/company.php:21
+msgid "Admin can access all companies while other users can only access companies they have access to."
+msgstr ""
+
+#: lib/includes/post-types/company.php:48
+msgid "Company Details"
+msgstr ""
+
+#: lib/includes/post-types/company.php:75
+#: lib/includes/post-types/company.php:79
+msgid "Remove Company Logo"
+msgstr ""
+
+#: lib/includes/post-types/company.php:78
+msgid "Add Company Logo"
+msgstr ""
+
+#: lib/includes/post-types/company.php:86
+msgid "Manual ID * Manual ID an identifier"
+msgstr ""
+
+#: lib/includes/post-types/company.php:92
+#: lib/includes/post-types/company.php:224
+msgid "Business Type"
+msgstr ""
+
+#: lib/includes/post-types/company.php:98
+msgid "Address 1"
+msgstr ""
+
+#: lib/includes/post-types/company.php:104
+msgid "Address 2"
+msgstr ""
+
+#: lib/includes/post-types/company.php:110
+msgid "city"
+msgstr ""
+
+#: lib/includes/post-types/company.php:116
+msgid "State"
+msgstr ""
+
+#: lib/includes/post-types/company.php:122
+msgid "Country"
+msgstr ""
+
+#: lib/includes/post-types/company.php:128
+msgid "Zip Code"
+msgstr ""
+
+#: lib/includes/post-types/company.php:134
+msgid "Company Phone"
+msgstr ""
+
+#: lib/includes/post-types/company.php:140
+msgid "Company Email"
+msgstr ""
+
+#: lib/includes/post-types/company.php:146
+msgid "Currency Symbol e.g USD or $"
+msgstr ""
+
+#: lib/includes/post-types/company.php:151
+msgid "About Company"
+msgstr ""
+
+#: lib/includes/post-types/company.php:222
+msgid "company Name"
+msgstr ""
+
+#: lib/includes/post-types/company.php:223
+msgid "Company Manual Id"
+msgstr ""
+
+#: lib/includes/post-types/company.php:225
+msgid "City"
+msgstr ""
+
+#: lib/includes/post-types/company.php:226
+msgid "Phone"
+msgstr ""
+
+#: lib/includes/post-types/company.php:227 lib/includes/settings.php:72
+msgid "Email"
+msgstr ""
+
+#: lib/includes/post-types/company.php:228
+msgid "Logo"
+msgstr ""
+
+#: lib/includes/post-types/company.php:229
+msgid "currency"
+msgstr ""
+
+#: lib/includes/post-types/company.php:230
+msgid "accounts"
+msgstr ""
+
+#: lib/includes/post-types/company.php:298
+msgid "Selected Company"
+msgstr ""
+
+#: lib/includes/post-types/company.php:300
+msgid "Please select a Company"
+msgstr ""
+
+#: lib/includes/post-types/company.php:300
+msgid "Select"
+msgstr ""
+
+#: lib/includes/settings.php:29
+msgid "WordPress Accounting"
+msgstr ""
+
+#: lib/includes/settings.php:39
+msgid "Menu Name e.g WordPress Accounting"
+msgstr ""
+
+#: lib/includes/settings.php:48
+msgid "Enter Menu Name Default WordPress Accounting"
+msgstr ""
+
+#: lib/includes/settings.php:56
+msgid "Logo to use"
+msgstr ""
+
+#: lib/includes/settings.php:65
+msgid "Enter url of logo"
+msgstr ""
+
+#: lib/includes/settings.php:73
+msgid "Where quote forms and other admin emails would be sent."
+msgstr ""
+
+#: lib/includes/settings.php:82
+msgid "Where to send emails like Quote and other stuff."
+msgstr ""
+
+#: lib/includes/settings.php:92
+msgid "Save Changes"
+msgstr ""
+
+#: lib/includes/settings.php:138
+msgid "Settings saved!"
+msgstr ""
